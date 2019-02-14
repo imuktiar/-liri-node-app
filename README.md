@@ -14,7 +14,7 @@ These are the Node packages for the assignment.
 
    * [Axios](https://www.npmjs.com/package/axios)
 
-   * Axios used to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API]      (http://www.artists.bandsintown.com/bandsintown-api)
+   * Axios is used to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API]      (http://www.artists.bandsintown.com/bandsintown-api)
 
    * [Moment](https://www.npmjs.com/package/moment)
 
