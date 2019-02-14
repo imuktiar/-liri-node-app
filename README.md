@@ -1,8 +1,10 @@
-# liriNodeApp
+# LiriNodeApp
 
 LIRI is a _Language_ Interpretation and Recognition Interface. 
 
 LIRI will be a command line node app that takes in parameters and gives you back data.
+
+-------------------------------------------------------------------------------------------------------------------
 
 These are the Node packages for the assignment.
 
@@ -15,4 +17,9 @@ These are the Node packages for the assignment.
    * [Moment](https://www.npmjs.com/package/moment)
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
+   
+   ----------------------------------------------------------------------------------------------------------------
+   Deployed site 
+   https://imuktiar.github.io/liriNodeApp/
+   
 
