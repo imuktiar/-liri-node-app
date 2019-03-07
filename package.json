@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/imuktiar/liriNodeApp/issues"
   },
-  "homepage": "https://github.com/imuktiar/liriNodeApp#readme"
+  "homepage": "https://github.com/imuktiar/liriNodeApp#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
 }
