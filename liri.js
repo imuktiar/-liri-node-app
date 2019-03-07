@@ -15,7 +15,7 @@ switch(liriReturn) {
     break;
     //Fail
     default:
-    console.log("I'm sorry, but I don't understand.");
+    console.log("I'm sorry but I don't understand.");
     break;
     case "do-what-it-says":
     doit();
