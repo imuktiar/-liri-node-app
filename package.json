@@ -2,7 +2,7 @@
   "name": "liriNodeApp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,14 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/imuktiar/liriNodeApp.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/imuktiar/liriNodeApp/issues"
-  },
-  "homepage": "https://github.com/imuktiar/liriNodeApp#readme",
   "dependencies": {
-    "node-spotify-api": "^1.0.7"
-  }
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "twitter": "^1.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/imuktair/liriNodeApp/issues"
+  },
+  "homepage": "https://github.com/imuktiar/liriNodeApp#readme"
 }
